@@ -1,0 +1,137 @@
+<html>
+<span style="color:#000000;"><body bgcolor="#FFFFFF"><span style="font-size:large">
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #D60000;
+  overflow-x: hidden;
+  padding-top: 20px;
+}
+
+.sidenav a {
+
+  padding: 6px 6px 6px 32px;
+  text-decoration:none;
+  font-family: Source Sans Pro;
+  font-size: 23px;
+  color: #000000;
+  display: block;
+
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.main {
+  margin-left: 200px; /* Same as the width of the sidenav */
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="sidenav">
+  <a href="CodingC101.html"><i class="fa fa-fw fa-home"></i> Home</a>
+  <a href="CodingC101-Main.html"><i class="fa fa-server"></i> Main</a>
+  <a href="CodingC101-About.html"><i class="fa fa-question"></i> About</a>
+  <a href="CodingC101-Contacts.html"><i class="fa fa-address-card"></i> Contacts</a>
+</div>
+
+<div class="main">
+</body>
+<header><center>
+   <h2 style="font-family:Courier"><span style="color:#FFFFFF"><span style="background-color:#000000"><span style="font-size:20"> HOME:</h2></span></span></span>
+  <b>
+  <h2 style="font-family:Courier"><span style="color:#b3ffbe"><span style="background-color:#000000"> Welcome to Coding 101!</h2></span></span>
+<br>
+    <audio controls autoplay>
+  <source src="Main.ogg" type="audio/ogg">
+  <source src="Main.mp3" type="audio/mpeg">
+</audio>
+<br>
+<br>
+<span style="font-family:Courier"><span style="color:white"><span style="background-color:black">*Click audio for better experience while reading!*</header></span></span></span>
+<center>
+<span style="font-family:Courier"><span style="color:white"><span style="background-color:black">*Title of song: Doki Doki Literature Club! OST - Doki Doki Literature Club!(Main Theme)*</header></span></span></span></center>
+  <center><p style="font-family:Courier"><span style="color:white;">Welcome to Coding 101 where everyone in the world unleashes the creativtiy of coding! Coding helps people to create their own website. Coding also enhances brain capacity and creativity! Children don't waste their time when learning coding. They stretch the storage of their knowledge. Coding can also improve memorizing things. So what are you waiting for? Learn now! </p></center></span>
+</center>
+</head>
+<span style="font-family:Courier"><span style="color:white;">
+<marquee  behavior="scroll" direction="right">
+-Do <b>you</b> want to be better in coding?-
+</marquee>
+</span>
+</span>
+<br>
+</head>
+<body>
+<style>
+  a:hover {
+    color: red;
+  }
+  
+  a:link {
+    color: blue;
+  }
+</style>
+  <body>
+<br>
+<center><image src="https://scontent.xx.fbcdn.net/v/t1.15752-9/p206x206/267214928_936157234005017_5346290547115105292_n.png?_nc_cat=111&ccb=1-5&_nc_sid=aee45a&_nc_ohc=vlYIo5ghtFEAX-ZhP-x&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVIIo7X6nP1Vgp3N1uyJ-nIQLxQGN8AGJLemKPdW8TQjgQ&oe=61E363FF"></center>
+<br>
+<center><span style="font-family:Courier"><span style="font-size:large"><span style="color:white"> Want to learn coding like this?</span></span></center>
+<center></span>
+    <p><span style="font-family:Courier"><span style="color:white">Clink the link:
+<br>
+<a
+    href="https://youtu.be/xvFZjo5PgG0">Click me for a 3-Minute tutorial in coding!</a></p></span></span>
+<span style="font-family:Courier"><span style="color:white">
+(Wear headphones with 70% Volume to have a full experience!) </span></span> 
+</body>
+</body>
+</b>
+<br>
+<br>
+<br>
+<footer><center>
+<span style="color:#000000;">put me in your search bar shh: https://forms.gle/cJ6zHGio6jy24WrD7
+</footer></center>
+<br>
+<center>
+<span style="font-family:Calibri"><span style="color:white"><span style="font-size:13"> Website made by "Anonymous". All links and musics are not mine. Credits to the rightful owner. December 2021.</span></span>
+</center>
+</span></span>
+</div>
+</style>
+</body>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #000000;
+}
+</style>
+</head>
+</html>
+</div></span>
+</html>
